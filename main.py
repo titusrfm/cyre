@@ -30,4 +30,4 @@ async def on_message(message):
     if message.content.startswith('!goodrobot'):
         await message.channel.send(':grin::robot:')
 
-client.run('MTA1MTcxNzk5ODA2ODYzMzYzMQ.Gf4KbL.DDqy1MLY0ojHhTmdGfLscU7HdH1HiI_--S-o8I')
+client.run('<your token here>')
